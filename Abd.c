@@ -14,4 +14,6 @@ int main()
         printf("hiii");
         x--;
     }
+
+    printf("hi");
 }
