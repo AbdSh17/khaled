@@ -9,9 +9,9 @@ int main()
         x++;
     }
 
-    while (x > -9)
+    for (int i = 0 ; i < 0 ; i++ ) 
     {
-        printf("hiii");
-        x--;
+            printf("hhhh");
     }
+    
 }
